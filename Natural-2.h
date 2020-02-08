@@ -1,44 +1,7 @@
 // Natural.h
 
-/////////////////////////////////////////////////////////////////////////
-//
-// Student Info
-// ------------
-//
 // Name : Chamodi Basnayake
-//
-//
-// Statement of Originality
-// ------------------------
-//
-// All the code and comments below are my own original work. For any non-
-// original work, I have provided citations in the comments with enough detail
-// so that someone can see the exact source and extent of the borrowed work.
-//
-// In addition, I have not shared this work with anyone else, and I have not
-// seen solutions from other students, tutors, websites, books, etc.
-//
-/////////////////////////////////////////////////////////////////////////
 
-
-/////////////////////////////////////////////////////////////////////////
-//
-// - Implement each of the following constructors and methods.
-//
-// - The details of the implementation of Natural are up to you.
-//
-// - **Do not** change the signatures of any of the constructors or methods
-//   that are given (if you do, then the testing program will give you 0)
-//
-// - **Do not** add any more #includes.
-//
-// - You can add member initialization lists to the given constructors if you
-//   like.
-//
-//  - You can add any other useful constructors, methods, or functions. Keep
-//    all the code in this one file.
-//
-/////////////////////////////////////////////////////////////////////////
 
 #include "cmpt_error.h"  // don't add any more #includes
 #include <cassert>
